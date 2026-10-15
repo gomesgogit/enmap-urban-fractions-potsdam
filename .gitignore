@@ -1,0 +1,9 @@
+# EnMAP data must not be redistributed (license)
+data/
+
+# Working notebook (exploration)
+notebook/01_enmap_explore.ipynb
+
+# Jupyter and Python caches
+.ipynb_checkpoints/
+__pycache__/
